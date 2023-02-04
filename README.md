@@ -38,4 +38,4 @@ In addition to our commitment to patient care, MedAlert is also known for our co
 ## Contact Us
 
 For more information about MedAlert and our ambulance services, please visit our website at https://sachin12031999.github.io/medalert_v3/  
-Visit our website at https://sachin12031999.github.io/medalert_v3/ to learn more about our services, and don't hesitate to call us in case of an emergency. Trust MedAlert v3 to provide you with the best medical care.
+
