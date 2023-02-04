@@ -1,0 +1,36 @@
+
+@media screen and (max-width:720px) { 
+    
+.navbar-nav{
+    display: none;
+}
+.navbar-toggler:hover .navbar-nav , .navbar-toggler:click .navbar-nav{
+    display: grid;
+}
+#action-buts {
+    position: relative;
+    left: -6px;
+    bottom: 0;
+    top: 3em;
+    right: 0;
+}
+.con-type-cont{
+    justify-content: space-around;
+    opacity: 1;
+    top: 43px;
+    display: grid;
+}
+.con-type-cont{
+    display: grid;
+
+}
+.services{
+    width: auto;
+}
+.container .counter{
+    width: auto;
+}
+.container .counter .counter-in{
+    margin: 1em 0;
+}
+}

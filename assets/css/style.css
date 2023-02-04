@@ -59,11 +59,13 @@
     width: 100px;
     border: 1px solid #2a9aac;
 }
-
+.active,.carousel-item{
+    transition: all 2.5s;
+}
 
 /* ================process of booking =============*/
 .sectionpadding {
-    padding: 11em 0;
+    padding: 11em 0 0 0;
 }
 .mycontainer {
     max-width: 1400px;
@@ -100,7 +102,9 @@
     align-items: center;
     justify-content: center;
 }
-
+.about-main{
+    display: flex; flex-flow: row wrap; justify-content:center;
+}
 .stepboxwrapper {
     position: relative;
 }
@@ -359,4 +363,65 @@ px
     .container .counter .counter-in .counter-det .text {
         text-align: center;
     }
-    
+    #action-buts .underlines {
+        display: none;}
+
+        /* ==================cards  */
+        .card-title {
+            position: relative;
+            display: flex;
+            height: 3em;
+            justify-content: space-around;
+            flex-direction: row;
+            align-items: center;
+            /* flex-wrap: wrap; */
+            align-content: space-around;
+        }
+        .card-body:hover {
+          /* color: #f2f2f2; */
+          /* background-color: #0000; */
+        }
+        .card-title {
+          background: linear-gradient(to left, transparent 50%, #212f56 50%) right;
+            background-size: 200%;
+            transition: 1s ease-out;
+        }
+            .card:hover .card-title  {
+              background-position: left;
+                    background-color: blue;
+                    color: #f2f2f2;
+                }
+                 .card:hover .fas{
+                  color: #f2f2f2;
+                  /* border: 1px solid blue; */
+                 }
+                /* .card:hover .card-text{
+                  background-color: #fff;
+        
+                } */
+         .ambulancetype {
+            padding: 50px 0;
+            background-color: #f2f2f2;
+          }
+          .ambulancetype i {
+            margin-right: 10px;
+            color: #007bff;
+          }
+
+
+        .Social-links{
+            padding: .4em;
+            /* display: inline-flexbox; */
+           
+            transition: background .5s;
+            border-radius: 10em;
+        }
+        .Social-links .fab{
+            color: #212f56;
+            
+        }
+        .Social-links:hover , .Social-links:hover .fab{
+            
+            color: #f1f1f1;
+            background: #212f56;
+        }
