@@ -414,7 +414,7 @@ px
             /* display: inline-flexbox; */
            
             transition: background .5s;
-            border-radius: 10em;
+            border-radius: 1em;
         }
         .Social-links .fab{
             color: #212f56;
@@ -424,4 +424,9 @@ px
             
             color: #f1f1f1;
             background: #212f56;
+        }
+        .Social-links-parents{
+            width: 17%;
+            display: flex;
+            justify-content: space-between;
         }

@@ -1,4 +1,4 @@
-# MEDALERT
+# MedAlert v3
 
 MedAlert is a premier provider of ambulance services, offering a wide range of emergency medical transportation options to meet the needs of patients and healthcare providers. Our services are designed to provide quick, efficient and safe transportation to those in need of medical attention. 
 
@@ -29,11 +29,11 @@ In addition to our commitment to patient care, MedAlert is also known for our co
 
 ## Screenshots
 
-![MedAlert Ambulance Fleet](screenshots/ambulance_fleet.png)
+![MedAlert Ambulance Fleet](screenshots/pc.png)
 
-![MedAlert Advanced Life Support Equipment](screenshots/als_equipment.png)
+![MedAlert Advanced Life Support Equipment](screenshots/mobilephone.png)
 
-![MedAlert Patient Care](screenshots/patient_care.png)
+![MedAlert Patient Care](screenshots/update.png)
 
 ## Contact Us
 
