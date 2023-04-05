@@ -17,7 +17,7 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 - Designer: Sachin Pandey
 
 
-- With our more team members of Abhiyantriki Technology and NSE Academy
+- With our more team members of Abhiyantriki Technology and Medalert team
 - Company URL: https://www.abhiyantrikitech.com
 - Github gnerated page URL :https://sachin12031999.github.io/medalert/ 
 - Live project URL : https://medalertlife.com/
