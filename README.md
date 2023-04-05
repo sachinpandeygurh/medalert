@@ -3,6 +3,29 @@
 
 MedAlert is a premier provider of ambulance services, offering a wide range of emergency medical transportation options to meet the needs of patients and healthcare providers. Our services are designed to provide quick, efficient and safe transportation to those in need of medical attention. 
 
+
+## Project Completion
+
+The project was completed under the supervision of Abhiyantriki Technology in Bhopal, Madhya Pradesh. 
+
+### Team Members
+
+- Developer:  Gourav Mahobe
+- Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
+- QA Tester: [Angesh Mishra](https://github.com/angesh27)
+- GitHub URL: https://github.com/angesh27
+- Designer: Sachin Pandey
+
+
+- With our more team members of Abhiyantriki Technology and NSE Academy
+- Company URL: https://www.abhiyantrikitech.com
+- Github gnerated page URL :https://sachin12031999.github.io/medalert/ 
+- Live project URL : https://medalertlife.com/
+
+### Abhiyantriki Technology
+
+For more information on Abhiyantriki Technology, please visit their website at: https://www.abhiyantrikitech.com
+
 ## Features
 
 - 24/7 availability
