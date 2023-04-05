@@ -10,11 +10,13 @@ The project was completed under the supervision of Abhiyantriki Technology in Bh
 
 ### Team Members
 
-- Developer:  Gourav Mahobe
-- Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
+- Developer:  [Gourav Mahobe](https://github.com/grv24)
+- GitHub URL: https://github.com/grv24
 - QA Tester: [Angesh Mishra](https://github.com/angesh27)
 - GitHub URL: https://github.com/angesh27
 - Designer: Sachin Pandey
+
+- Company: [Abhiyantriki Technology](https://www.abhiyantrikitech.com) , Bhopal MP
 
 
 - With our more team members of Abhiyantriki Technology and Medalert team
